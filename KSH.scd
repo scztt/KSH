@@ -1,6 +1,7 @@
 
 s.options.numOutputBusChannels = 12;
 
+State(\ksh).clear;
 State(\ksh).initActions.add({
 
 	DistCurve(\hard,
